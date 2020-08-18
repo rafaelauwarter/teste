@@ -11,3 +11,6 @@ colocar e-mail -> git config -- global user.email "email@gmail.com"
 colocar e-mail -> git config -- global user.name "Nome do zé"
 
 manda as informaçoes pro server -> git push origin master (primeira vez ele pede email e senha do github)
+
+puxa as informaçoes do github -> git pull origin master (se tiver conflitos vai aparecer mensagem)
+
