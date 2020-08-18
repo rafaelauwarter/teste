@@ -1,5 +1,11 @@
 inicializar a pasta -> git init
 
+inserir arquivo que vai pro git -> git add arquivo.txt / git add --all
+
+colocar os arquivos para up no servidor -> git commit -m "mensagem do pq das alteraçoes"
+
+
+
 
 
 
