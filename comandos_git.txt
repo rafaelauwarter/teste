@@ -1,0 +1,9 @@
+inicializar a pasta -> git init
+
+
+
+
+git remote add origin https://github.com/rafaelauwarter/teste.git
+
+serve para conectar o repositorio a sua pasta
+
