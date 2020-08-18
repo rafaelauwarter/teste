@@ -4,12 +4,10 @@ inserir arquivo que vai pro git -> git add arquivo.txt / git add --all
 
 colocar os arquivos para up no servidor -> git commit -m "mensagem do pq das alteraçoes"
 
+conecta o repositorio a sua pasta -> git remote add origin https://github.com/rafaelauwarter/teste.git
 
+colocar e-mail -> git config -- global user.email "email@gmail.com"
 
+colocar e-mail -> git config -- global user.name "Nome do zé"
 
-
-
-git remote add origin https://github.com/rafaelauwarter/teste.git
-
-serve para conectar o repositorio a sua pasta
-
+manda as informaçoes pro server -> git push origin master (primeira vez ele pede email e senha do github)
